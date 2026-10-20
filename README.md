@@ -1,2 +1,3 @@
 # First uploaded project
-This is my first time to upload my project on github
+This is my first time to upload my project on github.
+this is not my official account 
